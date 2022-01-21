@@ -16,4 +16,4 @@ To analyze the tweets and classify whether it is positive, negative or neutral a
 
 5. Counting the tweets on the basis of 3 categories: +ve -ve neutral
 
-Technology Stack: Python, NLP, Flask, Flutter, Cloud Firestore, Twitter OAuth 2.0, Google Maps API, Twilio API
+Technology Stack: Python, NLP, Flask, Cloud Firestore, Twitter OAuth 2.0, Google Maps API, Twilio API
